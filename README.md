@@ -1,3 +1,3 @@
 # Shopcart
 
-A basic shopping app based on ruby on rails..
+A basic book shopping webapp based on Ruby on rails. 
